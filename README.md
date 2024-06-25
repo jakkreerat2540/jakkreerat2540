@@ -1,10 +1,18 @@
 ![Bank !](https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=20)
-- Sawasdee krab! 😊 I'm Bank, a Project Engineer always excited to learn and build. What brings you here?
-#
-Gald to see you here!
-About Me:
-- Feel free to reach out at jakkreerat.work@gmail.com or work@jakkreerat.xyz.
-- RMUTT Computer Engineering graduate, here to connect! 🎓"
+
+ "Sawasdee krab! I'm Bank, a Project Engineer who loves turning ideas into reality. What brings you to my profile?"
+
+🌱 I'm always eager to learn new technologies and tackle challenging projects. Currently, I'm exploring 
+
+🚀 My mission is to build reliable, scalable, and user-friendly solutions that make a real impact.
+
+📫 Let's connect! Feel free to reach out via:
+* Email: jakkreerat.work@gmail.com or work@jakkreerat.xyz
+* LinkedIn: [Jakkreerat](https://www.linkedin.com/in/jakkreerat-deesubin-12a943169/)
+
+⚡ Fun Fact: I'm a proud RMUTT Computer Engineering graduate. I love to travel, play video games, and watch movies in my free time.
+
+✨ Check out my pinned repositories to see some of my work!  
 
 🚀 Skills:
 - ⚡ Database <br>
