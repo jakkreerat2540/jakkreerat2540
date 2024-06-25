@@ -1,12 +1,10 @@
 ![Bank !](https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=20)
-Sawasdee World 👋, I'm Bank!
+- Sawasdee krab! 😊 I'm Bank, a Project Engineer always excited to learn and build. What brings you here?
 #
 Gald to see you here!
-
 About Me:
-I'm a Project Engineer!
-- How to reach me: jakkreerat.work@gmail.com
-- 🎓 Graduated Computer Engineering RMUTT
+- Feel free to reach out at jakkreerat.work@gmail.com or work@jakkreerat.xyz.
+- RMUTT Computer Engineering graduate, here to connect! 🎓"
 
 🚀 Skills:
 - ⚡ Database <br>
