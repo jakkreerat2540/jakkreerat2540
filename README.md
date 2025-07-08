@@ -103,8 +103,6 @@ Check out my pinned repositories below to see some of my work! Here are some hig
 ## 🏆 Achievements & Certifications
 
 - 🎓 **Computer Engineering Graduate** - RMUTT
-- 🏅 **System Engineer** - Specialized in cloud infrastructure
-- 💡 **Open Source Contributor** - Active in the tech community
 
 ## 📫 Let's Connect!
 
