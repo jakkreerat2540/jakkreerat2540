@@ -21,11 +21,15 @@ const bank = {
 
 ## 🌱 What I'm Currently Working On
 
-- 🔭 Exploring **cloud-native architectures** and **microservices**
-- 🌐 Building **scalable infrastructure** with **Kubernetes** and **Docker**
-- 📊 Implementing **monitoring and observability** solutions
-- 🤖 Developing **IoT integration** projects with **Home Assistant**
-- 📚 Learning **Go** and advanced **DevOps** practices
+- 🔴 **Red Hat Enterprise Linux** management and automation workflows
+- 🛠️ **Open Source Configuration Management** with Ansible and Puppet
+- 📋 **System Administration** tools for enterprise environments
+- 🔧 **Infrastructure as Code** using Ansible playbooks
+- 🐳 **Containerization** with Docker
+- 📊 **Monitoring & Logging** with open source tools (Prometheus, Grafana, ELK Stack)
+- 🤖 **Automation Scripts** for system provisioning and maintenance
+- 🌐 **Load Balancing & Reverse Proxy** configurations with Nginx and HAProxy
+- 📚 **Contributing to open source projects** related to system administration
 
 ## 🛠️ Tech Stack & Tools
 
