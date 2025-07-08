@@ -94,9 +94,9 @@ const bank = {
 
 Check out my pinned repositories below to see some of my work! Here are some highlights:
 
-- 🏗️ **Infrastructure as Code** - Terraform configurations for cloud deployments
-- 🐳 **Containerization** - Docker and Kubernetes orchestration projects  
-- 📊 **Monitoring Solutions** - Grafana dashboards and Prometheus configurations
+- 🏗️ **Infrastructure as Code** - Ansible configurations
+- 🐳 **Containerization** - Docker 
+- 📊 **Monitoring Solutions** - Grafana dashboards  Prometheus configurations Elk Stack and Zabbix
 - 🤖 **IoT Integration** - Home automation and smart device projects
 - 🔧 **DevOps Tools** - Custom scripts and automation workflows
 
