@@ -111,7 +111,7 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-jakkreerat.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakkreerat.work@gmail.com)
-[![Work Email](https://img.shields.io/badge/Work-work@jakkreerat.xyz-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:work@jakkreerat.com)
+[![Work Email](https://img.shields.io/badge/Work-work@jakkreerat.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:work@jakkreerat.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jakkreerat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakkreerat-deesubin-12a943169/)
 
 </div>
