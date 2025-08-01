@@ -128,7 +128,7 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=jakkreerat2540&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
 
 <div align="center">
